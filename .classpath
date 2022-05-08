@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="challenge-java-hotel-reservation-test-main/src/main/java"/>
+	<classpathentry kind="src" path="challenge-java-hotel-reservation-test-main/src/test/java"/>
+	<classpathentry kind="lib" path="challenge-java-hotel-reservation-test-main/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="challenge-java-hotel-reservation-test-main/bin/test"/>
+</classpath>
